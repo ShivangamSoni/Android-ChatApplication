@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+
+    <string name="login">Log-In</string>
+    <string name="register">Register</string>
+    <string name="reset">Reset Password</string>
+    <string name="forgotPass">Forgot Password ?</string>
+    <string name="fillField">!! All Fields are Necessary to be Filled !!</string>
+    <string name="passReset">Please Check Your Email, For Password Reset Link</string>
+    <string name="passCondition">Password Should Have 8-16 Characters</string>
+    <string name="resetInstruction">By Clicking RESET, You will Receive an E-Mail to Reset Your Password</string>
+    <string name="mailResetNotFound">E-Mail Does not Exist</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "192253400939",
+    "firebase_url": "https://chat-application-cb752.firebaseio.com",
+    "project_id": "chat-application-cb752",
+    "storage_bucket": "chat-application-cb752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192253400939:android:7e5bde5c182c1d2a",
+        "android_client_info": {
+          "package_name": "com.Shivi.ChatApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192253400939-1iunsurhe7leg8g3aam7l62h36ibusem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Shivi.ChatApplication",
+            "certificate_hash": "6b0beb8683dadd633c3888e0f60e67de2190d4ab"
+          }
+        },
+        {
+          "client_id": "192253400939-9paa9dpe153rfgdfkgqnq28ddp5uqmu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY9v8b5i_wHA_xDrYtRlpV1f4rB6VL4FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192253400939-9paa9dpe153rfgdfkgqnq28ddp5uqmu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
