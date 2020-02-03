@@ -12,7 +12,7 @@ public interface APIService {
     @Headers(
             {
                     "Content-Type:application/json",
-                    "Authorization:key=AAAALMMyF2s:APA91bG91hRRiI8xSLEQOXrDqzsAThjevrJAB47rmo80WK5SYHxSoj9fXi9t_fWp-6fyGNdmJ01rgqFrlqxJHhcQAgQrAhxiGdHB29izZNLqEtdK-3raEWJuXLJygKJ_2zwKNG9HsO4-"
+                    "Authorization:key="//Firebase Cloud Messaging API Key
             }
     )
 
